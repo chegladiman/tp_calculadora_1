@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1504469347 source:c:\users\facu\desktop\tp_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504387235 c:\users\facu\desktop\tp_calculadora\funciones.h
+	<stdbool.h>
+
